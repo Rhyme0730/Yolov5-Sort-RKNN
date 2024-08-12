@@ -30,7 +30,7 @@ python3 main.py
 sudo bash rkcat.sh
 ```
 
-### Parameters Setting
+## Parameters Setting
 | Name  | Description |
 | ----- | ----------- |
 | OBJ_THRESH | Threshold for detecting |
